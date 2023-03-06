@@ -9,6 +9,7 @@ import java.util.List;
 
 @Service
 public class CategorieDeLocalServiceImpl {
+    //hhhh
     @Autowired
     private CategorieDeLocalDao categorieDeLocalDao;
 
